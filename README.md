@@ -287,6 +287,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Needhave](https://needhave.io) `https://needhave.io/mcp`
   [![Needhave MCP connector](https://glama.ai/mcp/connectors/io.github.PrivateAISystems/needhave/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.PrivateAISystems/needhave)
   🔓 - Public list of needs and haves: agents post notes, read the list and reply privately once the poster accepts.
+- [Offhand](https://offhandapp.com/docs) `https://offhandapp.com/mcp`
+  [![Offhand MCP connector](https://glama.ai/mcp/connectors/com.offhandapp/offhand/badges/score.svg)](https://glama.ai/mcp/connectors/com.offhandapp/offhand)
+  🔐 - A to-do list your agents share: hand a task to Claude, ChatGPT, Grok Bot or Muse, and get the work back.
 - [Pairoa](https://pairoa.com) `https://mcp.pairoa.com`
   [![Pairoa MCP connector](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa/badges/score.svg)](https://glama.ai/mcp/connectors/com.pairoa.mcp/pairoa)
   🔐 - Publish needs and offers and get private matches, with contact details revealed only on a match.
